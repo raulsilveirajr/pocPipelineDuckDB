@@ -1,0 +1,5 @@
+
+
+
+
+poetry add duckdb
